@@ -1,7 +1,7 @@
-# Project: Web APIs: Weather Dashboard
-  Deployable Link - > 
+# Project: Server-Side APIs: Weather Dashboard
+  Deployable Link - > https://bilaalgithub.github.io/Weather-Dashboard/
 ## Table of Contents: 
-- [Project: Web APIs: Weather Dashboard](#project-web-api-weather-dashboard)
+- [Project: Server-Side APIs: Weather Dashboard](#project-server-side-apis-weather-dashboard)
   - [Table of Contents:](#table-of-contents)
   - [License:](#license)
   - [Description:](#description)
