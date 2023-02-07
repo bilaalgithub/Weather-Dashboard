@@ -20,7 +20,8 @@ function find(c){
         }
     }
     return 1;
-}
+    console.log()
+};
 
 function renderCurrentWeather(city, weatherData) {
     let date = moment().format("DD/MM/YYYY");
