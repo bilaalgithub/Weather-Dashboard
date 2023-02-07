@@ -1,4 +1,4 @@
-# Project: Web APIs: Code Quiz
+# Project: Web APIs: Weather Dashboard
   Deployable Link - > 
 ## Table of Contents: 
 - [Project: Web APIs: Weather Dashboard](#project-web-api-weather-dashboard)
